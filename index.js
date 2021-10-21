@@ -1,6 +1,5 @@
 const discord = require("discord.js");
 const config = require("./config.json");
-const { default_prefix } = require('./config.json');
 const prefix = config.prefix;
 const channelLogs = config.logs;
 const { get } = require("snekfetch");
@@ -14,18 +13,6 @@ const express = require('express');
 const http = require('http');
 const app = express();
 const db = require('quick.db');
-const { GiveawaysManager } = require('discord-giveaways');
-
-Client.giveawaysManager = new GiveawaysManager(Client, {
-    storage: "./giveaways.json",
-    updateCountdownEvery: 5000,
-    default: {
-        botsCanWin: false,
-        exemptPermissions: [],
-        embedColor: "#FF0000",
-        reaction: "🎉"
-    }
-});
 
 app.get("/", (request, response) => {
   
@@ -179,24 +166,6 @@ Client.on("message", message => {
   }
 })
 
-Client.on("message", message => {
-  if(message.content === "bct") {
-    return message.channel.send("dih, banyak gaya")
-  }
-})
-
-Client.on("message", message => {
-  if(message.content === "bot kont") {
-    return message.channel.send("gelud kita jing")
-  }
-})
-
-Client.on("message", message => {
-  if(message.content === "ayo sini jing") {
-    return message.channel.send("lu dimana anjg, sini")
-  }
-})
-
 Client.on("guildMemberAdd", async member => {
   if(member.guild.id !== "896004082467209226");
   const welcomeCard = new canvacord.Welcomer()
@@ -233,4 +202,4 @@ Client.on("guildMemberRemove", async member => {
   member.guild.channels.cache.get("895998758834298931").send(member.user.toString(), attachment)
 })
 
-Client.login("ODg0Mjg3MDM5NzUzODIyMjU4.YTWSew.snlTfU93T47qd_K54LcukHb7kpQ");
+Client.login("");
