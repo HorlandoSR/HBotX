@@ -35,7 +35,8 @@ Bot Discord.js V12
 - Open Replit Or Glitch (replit.com / glitch.com)
 - Press "New Project"
 - Press "Import From Github"
-- Copy This "" 
+- Copy This "https://github.com/HorlandoSR/HBotX.git" And Paste In "Import Form Github"
+- Edit Your Token In (https://saweria.co/HorlandoSRG)
 
 **Donate:**
 
