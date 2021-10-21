@@ -47,7 +47,7 @@ Bot Discord.js V12
 
 **NOTE:**
 
-[+] If you have trouble using this bot check it out on my youtube
+[+] If you have trouble using this bot check it out on my youtube \n
 [=] If Error Dm Me In Discord Horlando ✘#6377
 
 **Donate:**
