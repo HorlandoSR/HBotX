@@ -55,7 +55,7 @@ Bot Discord.js V12
 
 **Discord**
 
-[<code><img alt="Discord" height="20px" src="https://id.images.search.yahoo.com/images/view;_ylt=AwrwS23U4HBhhGoAUNLNQwx.;_ylu=c2VjA3NyBHNsawNpbWcEb2lkAzI3MzEwMzlkNDE3MjBmMWIyMzI5NzAyZmE2ZTI2NDhlBGdwb3MDMTUEaXQDYmluZw--?back=https%3A%2F%2Fid.images.search.yahoo.com%2Fsearch%2Fimages%3Fp%3Dlogo%2Bdiscord%26type%3DE210ID91215G0%26fr%3Dmcafee%26fr2%3Dpiv-web%26tab%3Dorganic%26ri%3D15&w=1920&h=1080&imgurl=www.darkcarnival.co.za%2Fwp-content%2Fuploads%2F2018%2F08%2Fdiscord-logo.jpg&rurl=https%3A%2F%2Fwww.darkcarnival.co.za%2Fdiscord-to-start-selling-games%2F&size=62.7KB&p=logo+discord&oid=2731039d41720f1b2329702fa6e2648e&fr2=piv-web&fr=mcafee&tt=Discord+to+start+selling+games+-+The+Dark+Carnival&b=0&ni=21&no=15&ts=&tab=organic&sigr=oCU7478NJOFc&sigb=fRl6PrYVpQBH&sigi=Ck3u_Db8phi.&sigt=ePkc_udXWY7n&.crumb=owOq9/IK4p.&fr=mcafee&fr2=piv-web&type=E210ID91215G0"/></code>](https://discord.gg/GbG6W4HpYA)
+[<code><img alt="Discord" height="20px" src="https://clipground.com/images/discord-icon-png-4.png"/></code>](https://discord.gg/GbG6W4HpYA)
 
 ## 🚶 Visit Me
 [![Youtube](https://img.shields.io/badge/Youtube-FF0014?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCgNw20utw8M3e6afru4JRZA)
